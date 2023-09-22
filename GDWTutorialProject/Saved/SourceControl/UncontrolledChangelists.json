@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/Blueprints/Player/BP_FPCharacter.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1G/G27KJSO5S2I8AFN7D7WQ9T.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/Framework/BP_Gamemode.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/Blueprints/Player/IMC_Default.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/Blueprints/Player/InputActions/IA_Move.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/Blueprints/Player/InputActions/IA_Look.uasset",
+				"D:/GithubProjects/GDWTutorialRepo/GDWTutorialProject/Content/Blueprints/Player/InputActions/IA_Jump.uasset"
 			]
 		}
 	]
